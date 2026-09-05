@@ -6,14 +6,18 @@ I build intelligent systems, mobile applications, interactive web tools, and sim
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python.
-* **Frameworks:** React Native, Expo
+* **Language:** Python
 * **AI:** Local LLMs, Ollama, DeepSeek-R1, Agentic Systems
-* **Exploring:** Linux, Automation, 3D/Physics Simulations & Embedded Systems
+* **Tools & Technologies:** Linux, Automation, 3D/Physics Simulations
+* **Exploring:** AI Agents, Systems Engineering & Embedded Systems
 
-### 🏆 Achievement
+### 🏆 Achievements
 
-* 🥉 **9th Rank — Narsingdi ICT Olympiad 2026**
+* 🥇 **1st Place — National Science Fair, Narsingdi Sadar Upazila (2025)**
+* 🥇 **1st Place — National Science Fair, Narsingdi Sadar Upazila (2024)**
+* 🥈 **2nd Place — District Level, National Science Fair (2024)**
+* 🥈 **2nd Place — Innovative & Science-Based Competition, Narsingdi Sadar Upazila**, organized under the *Educational Excellence Support Scheme* of the Directorate of Secondary and Higher Education (DSHE), for students and teachers of Classes 6–12
+* 🏆 **District Champion — Samakal Debate Competition, Narsingdi**
 
 ### 🎯 Currently
 
@@ -23,6 +27,7 @@ I build intelligent systems, mobile applications, interactive web tools, and sim
 * 🎓 Working toward a future in **AI Research & Software Engineering**
 
 > 🚀 *Building, learning, experimenting — one project at a time.*
+
 
 
 ## 🌐 Socials:
