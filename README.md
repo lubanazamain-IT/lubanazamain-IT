@@ -6,7 +6,7 @@ I build intelligent systems, mobile applications, interactive web tools, and sim
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript, HTML/CSS
+* **Languages:** Python.
 * **Frameworks:** React Native, Expo
 * **AI:** Local LLMs, Ollama, DeepSeek-R1, Agentic Systems
 * **Exploring:** Linux, Automation, 3D/Physics Simulations & Embedded Systems
